@@ -73,7 +73,6 @@ public class ConfigData {
         String findMethod = partsOfLocator[0].substring(0,partsOfLocator[0].length() - 1);
         String target = partsOfLocator[1];
 
-
         //Return By class with appropriate method and target
         if (findMethod.equals("id")){
             return By.id(target);
