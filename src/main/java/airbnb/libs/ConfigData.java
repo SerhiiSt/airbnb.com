@@ -1,6 +1,6 @@
 package airbnb.libs;
 
-import com.sun.xml.internal.bind.v2.TODO;
+
 import org.openqa.selenium.By;
 
 import java.io.FileInputStream;
@@ -15,8 +15,8 @@ import java.util.Properties;
 * */
 public class ConfigData {
 
-    public static String cfgFile = "src/Config.properties";
-    public static String uiMappingFile = "src/UIMapping.properties";
+    public static String cfgFile = "src/main/resources/Config.properties";
+    public static String uiMappingFile = "src/main/resources/UIMapping.properties";
 
     public ConfigData(){
 
