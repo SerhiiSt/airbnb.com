@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".ignore" type="PLAIN_TEXT" />
       <mapping pattern="urls" type="PLAIN_TEXT" />
       <mapping ext="logs" type="PLAIN_TEXT" />
     </extensionMap>
