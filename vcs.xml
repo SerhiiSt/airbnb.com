@@ -46,6 +46,10 @@
           <option name="url" value="https://github.com/SerhiiSt/codingbat.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/SerhiiSt/KRK-Java-19-09-1-W_Lessons.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/" />
